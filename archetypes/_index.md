@@ -2,5 +2,6 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 background: "/images/bg.jpg"
-logo: "/images/headshot.png"
+
+logo: "gem"
 ---
